@@ -1,0 +1,17 @@
+ADMIN:
+
+
+admin
+admin@gmail.com
+admin
+
+
+NORMAL USERS:
+
+mahnoor
+a@gmail.com
+password: a
+
+
+
+all details b se till z

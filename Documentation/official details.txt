@@ -1,0 +1,30 @@
+mongoDB:
+
+
+mahnooryameen22
+jwGWHCXqwkPtRK3m
+
+mongodb+srv://mahnooryameen22:<password>@cluster0.dffwplx.mongodb.net/?retryWrites=true&w=majority
+
+
+
+
+Firebase:
+
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyBxO0Z492NwoTk5uZTovHEcUCCiH_YCQ-E",
+  authDomain: "bakery-mern.firebaseapp.com",
+  projectId: "bakery-mern",
+  storageBucket: "bakery-mern.appspot.com",
+  messagingSenderId: "449047113597",
+  appId: "1:449047113597:web:8875129efa0b3fed77e614"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
