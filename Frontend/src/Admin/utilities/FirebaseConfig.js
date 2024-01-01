@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBxO0Z492NwoTk5uZTovHEcUCCiH_YCQ-E",
-  authDomain: "bakery-mern.firebaseapp.com",
-  projectId: "bakery-mern",
-  storageBucket: "bakery-mern.appspot.com",
-  messagingSenderId: "449047113597",
-  appId: "1:449047113597:web:8875129efa0b3fed77e614"
+  apiKey: "AIzaSyBkkZ_5imMEWr1qUrsO7oTl6C_3mdw0jX4",
+  authDomain: "bakerymern.firebaseapp.com",
+  projectId: "bakerymern",
+  storageBucket: "bakerymern.appspot.com",
+  messagingSenderId: "176170312197",
+  appId: "1:176170312197:web:2aae8de6e5b95979fcb26c"
 };
 
 const app = initializeApp(firebaseConfig);
